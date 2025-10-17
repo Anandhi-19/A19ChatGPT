@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chat Clone",
+  "description": "A sleek, responsive chat application powered by the Google Gemini API, providing an interactive conversational experience similar to ChatGPT.",
+  "requestFramePermissions": []
+}
