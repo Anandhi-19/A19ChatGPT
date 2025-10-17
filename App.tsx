@@ -84,7 +84,7 @@ const App: React.FC = () => {
                         <GeminiIcon className="w-6 h-6 text-white" />
                     </div>
                     <h1 className="text-xl font-bold">
-                        Gemini Chat
+                        A19Chatbot
                     </h1>
                 </div>
                 <button onClick={startNewChat} className="px-4 py-2 text-sm font-semibold bg-gray-700/50 border border-gray-600 rounded-lg hover:bg-gray-600/70 transition-colors">

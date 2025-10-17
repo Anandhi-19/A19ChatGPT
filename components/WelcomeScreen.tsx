@@ -22,7 +22,7 @@ const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onPromptClick }) => {
       </div>
       <h1 className="text-4xl md:text-5xl font-bold mb-4">Hello, how can I help?</h1>
       <p className="text-lg md:text-xl text-gray-400 mb-12 max-w-2xl">
-        I am a large language model, trained by Google. Start a conversation or try one of these prompts.
+        I am a large language model, trained by Anandhi. Start a conversation or try one of these prompts.
       </p>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 w-full max-w-3xl">
         {prompts.map((prompt, index) => (
